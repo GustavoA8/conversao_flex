@@ -31,7 +31,7 @@ git clone https://github.com/GustavoA8/conversao_flex.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [Gustavo Araujo] (https://github.com/GustavoA8).
+Este projeto foi desenvolvido por [Gustavo Araujo](https://github.com/GustavoA8).
 
 ## Licença
 
